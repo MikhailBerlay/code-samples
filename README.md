@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-👋 Hello! I’m Mikhail Berlay, a passionate data science enthusiast with a strong background in computational statistics and finance. I am currently pursuing a B.S. in Computational Statistics & Data Science with a minor in Finance at Weber State University, and I expect to graduate in Spring 2025. 
+👋 Hello! I’m Mikhail Berlay, a passionate data science enthusiast with a strong background in computational statistics and finance. I am currently pursuing a Professional Science Master's (PSM) in Computational and Data Science at University of Utah, after completing a B.S. in Computational Statistics & Data Science with a minor in Finance at Weber State University, and I expect to graduate in Spring 2027. 
 
 **Skills:**
 - Programming Languages: Python, R, C++, SQL
